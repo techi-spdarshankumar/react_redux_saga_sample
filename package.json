@@ -1,5 +1,5 @@
 {
-  "name": "react_redux_saga_sample",
+  "name": "personaltracker",
   "version": "1.0.0",
   "description": "a sample project using react, redux, saga, webpack etc.,",
   "main": "index.js",
